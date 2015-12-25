@@ -1,0 +1,15 @@
+{
+  "name": "electron-flash",
+  "version": "1.0.0",
+  "description": "Electron Embeded Web Browser with Adobe Flash Player Support",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "author": "kob-to-wni",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-electron": "*",
+    "load-grunt-tasks": "*"
+  }
+}
